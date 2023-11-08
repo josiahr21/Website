@@ -1,6 +1,13 @@
  body {
-                background: #4846b9;
+                background: #25a1da;
                 color: white;
                 font-family: cambria;
             }
             
+img.photo {max-width: 900px; width: 90%;}
+
+img {width:80%;}
+
+div.gallery {display:flex;width: 90%; margin:auto;}
+
+p {padding:2em}
